@@ -1,0 +1,105 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Tanya.Driver/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Tanya.Driver.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tanya.Driver.dll": {}
+        }
+      }
+    },
+    "net6.0/linux-x64": {
+      "Tanya.Driver/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Tanya.Driver.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tanya.Driver.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tanya.Driver/1.0.0": {
+      "type": "project",
+      "path": "../Tanya.Driver/Tanya.Driver.csproj",
+      "msbuildProject": "../Tanya.Driver/Tanya.Driver.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Tanya.Driver >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/root/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/nicktacke/Desktop/the_arc_project/src/Tanya.Driver.Linux/Tanya.Driver.Linux.csproj",
+      "projectName": "Tanya.Driver.Linux",
+      "projectPath": "/home/nicktacke/Desktop/the_arc_project/src/Tanya.Driver.Linux/Tanya.Driver.Linux.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/home/nicktacke/Desktop/the_arc_project/src/Tanya.Driver.Linux/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/root/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "/home/nicktacke/Desktop/the_arc_project/src/Tanya.Driver/Tanya.Driver.csproj": {
+              "projectPath": "/home/nicktacke/Desktop/the_arc_project/src/Tanya.Driver/Tanya.Driver.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.111/RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "linux-x64": {
+        "#import": []
+      }
+    }
+  }
+}

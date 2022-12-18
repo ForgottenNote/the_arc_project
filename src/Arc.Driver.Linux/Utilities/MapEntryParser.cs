@@ -1,0 +1,48 @@
+﻿using System.Globalization;
+using System.Text.RegularExpressions;
+using Arc.Driver.Linux.Enums;
+using Arc.Driver.Linux.Models;
+
+namespace Arc.Driver.Linux.Utilities
+{
+    public static class MapEntryParser
+    {
+        private static readonly Regex Me = new(
+            @"^([0-9A-F]+)-([0-9A-F]+)\s+(r|-)(w|-)(x|-)(p|s)\s+([0-9A-F]+)\s+([0-9A-F]+):([0-9A-F]+)\s+([0-9]+)\s+(.*)$",
+            RegexOptions.IgnoreCase);
+
+        #region Statics
+
+        public static MapEntry? Parse(string value)
+        {
+            var match = Me.Match(value);
+            if (match.Success) return Map(match);
+            return null;
+        }
+
+        private static MapEntry Map(Match match)
+        {
+            var start = ulong.Parse(match.Groups[1].Value, NumberStyles.HexNumber);
+            var end = ulong.Parse(match.Groups[2].Value, NumberStyles.HexNumber);
+            var perms = Permissions(match);
+            var offset = ulong.Parse(match.Groups[7].Value, NumberStyles.HexNumber);
+            var devMajor = ushort.Parse(match.Groups[8].Value, NumberStyles.HexNumber);
+            var devMinor = ushort.Parse(match.Groups[9].Value, NumberStyles.HexNumber);
+            var inode = ulong.Parse(match.Groups[10].Value);
+            var pathname = match.Groups[11].Value;
+            return new MapEntry(devMajor, devMinor, end, inode, offset, pathname, perms, start);
+        }
+
+        private static PermissionType Permissions(Match match)
+        {
+            var result = PermissionType.None;
+            if (match.Groups[3].Value == "r") result |= PermissionType.Read;
+            if (match.Groups[4].Value == "w") result |= PermissionType.Write;
+            if (match.Groups[5].Value == "x") result |= PermissionType.Execute;
+            if (match.Groups[6].Value == "s") result |= PermissionType.Shared;
+            return result;
+        }
+
+        #endregion
+    }
+}

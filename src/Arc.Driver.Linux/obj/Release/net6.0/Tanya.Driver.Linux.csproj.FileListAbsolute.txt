@@ -1,0 +1,14 @@
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Driver.Linux/bin/Release/net6.0/Tanya.Driver.Linux.deps.json
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Driver.Linux/bin/Release/net6.0/Tanya.Driver.Linux.runtimeconfig.json
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Driver.Linux/bin/Release/net6.0/Tanya.Driver.Linux.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Driver.Linux/bin/Release/net6.0/ref/Tanya.Driver.Linux.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Driver.Linux/bin/Release/net6.0/Tanya.Driver.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Driver.Linux/obj/Release/net6.0/Tanya.Driver.Linux.csproj.AssemblyReference.cache
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Driver.Linux/obj/Release/net6.0/Tanya.Driver.Linux.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Driver.Linux/obj/Release/net6.0/Tanya.Driver.Linux.AssemblyInfoInputs.cache
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Driver.Linux/obj/Release/net6.0/Tanya.Driver.Linux.AssemblyInfo.cs
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Driver.Linux/obj/Release/net6.0/Tanya.Driver.Linux.csproj.CoreCompileInputs.cache
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Driver.Linux/obj/Release/net6.0/Tanya.Driver.Linux.csproj.CopyComplete
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Driver.Linux/obj/Release/net6.0/Tanya.Driver.Linux.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Driver.Linux/obj/Release/net6.0/ref/Tanya.Driver.Linux.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Driver.Linux/obj/Release/net6.0/Tanya.Driver.Linux.genruntimeconfig.cache

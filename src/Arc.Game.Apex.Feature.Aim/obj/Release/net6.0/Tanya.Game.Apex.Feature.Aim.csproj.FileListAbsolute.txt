@@ -1,0 +1,16 @@
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Aim/bin/Release/net6.0/Tanya.Game.Apex.Feature.Aim.deps.json
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Aim/bin/Release/net6.0/Tanya.Game.Apex.Feature.Aim.runtimeconfig.json
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Aim/bin/Release/net6.0/Tanya.Game.Apex.Feature.Aim.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Aim/bin/Release/net6.0/ref/Tanya.Game.Apex.Feature.Aim.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Aim/bin/Release/net6.0/Tanya.Core.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Aim/bin/Release/net6.0/Tanya.Driver.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Aim/bin/Release/net6.0/Tanya.Game.Apex.Core.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Aim/obj/Release/net6.0/Tanya.Game.Apex.Feature.Aim.csproj.AssemblyReference.cache
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Aim/obj/Release/net6.0/Tanya.Game.Apex.Feature.Aim.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Aim/obj/Release/net6.0/Tanya.Game.Apex.Feature.Aim.AssemblyInfoInputs.cache
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Aim/obj/Release/net6.0/Tanya.Game.Apex.Feature.Aim.AssemblyInfo.cs
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Aim/obj/Release/net6.0/Tanya.Game.Apex.Feature.Aim.csproj.CoreCompileInputs.cache
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Aim/obj/Release/net6.0/Tanya.Game.Apex.Feature.Aim.csproj.CopyComplete
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Aim/obj/Release/net6.0/Tanya.Game.Apex.Feature.Aim.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Aim/obj/Release/net6.0/ref/Tanya.Game.Apex.Feature.Aim.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Aim/obj/Release/net6.0/Tanya.Game.Apex.Feature.Aim.genruntimeconfig.cache

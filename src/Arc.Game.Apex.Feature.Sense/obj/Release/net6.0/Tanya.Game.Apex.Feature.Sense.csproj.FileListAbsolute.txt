@@ -1,0 +1,16 @@
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Sense/bin/Release/net6.0/Tanya.Game.Apex.Feature.Sense.deps.json
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Sense/bin/Release/net6.0/Tanya.Game.Apex.Feature.Sense.runtimeconfig.json
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Sense/bin/Release/net6.0/Tanya.Game.Apex.Feature.Sense.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Sense/bin/Release/net6.0/ref/Tanya.Game.Apex.Feature.Sense.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Sense/bin/Release/net6.0/Tanya.Core.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Sense/bin/Release/net6.0/Tanya.Driver.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Sense/bin/Release/net6.0/Tanya.Game.Apex.Core.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Sense/obj/Release/net6.0/Tanya.Game.Apex.Feature.Sense.csproj.AssemblyReference.cache
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Sense/obj/Release/net6.0/Tanya.Game.Apex.Feature.Sense.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Sense/obj/Release/net6.0/Tanya.Game.Apex.Feature.Sense.AssemblyInfoInputs.cache
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Sense/obj/Release/net6.0/Tanya.Game.Apex.Feature.Sense.AssemblyInfo.cs
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Sense/obj/Release/net6.0/Tanya.Game.Apex.Feature.Sense.csproj.CoreCompileInputs.cache
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Sense/obj/Release/net6.0/Tanya.Game.Apex.Feature.Sense.csproj.CopyComplete
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Sense/obj/Release/net6.0/Tanya.Game.Apex.Feature.Sense.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Sense/obj/Release/net6.0/ref/Tanya.Game.Apex.Feature.Sense.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Feature.Sense/obj/Release/net6.0/Tanya.Game.Apex.Feature.Sense.genruntimeconfig.cache

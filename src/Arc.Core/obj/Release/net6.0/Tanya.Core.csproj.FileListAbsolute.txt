@@ -1,0 +1,14 @@
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Core/bin/Release/net6.0/Tanya.Core.deps.json
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Core/bin/Release/net6.0/Tanya.Core.runtimeconfig.json
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Core/bin/Release/net6.0/Tanya.Core.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Core/bin/Release/net6.0/ref/Tanya.Core.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Core/bin/Release/net6.0/Tanya.Driver.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Core/obj/Release/net6.0/Tanya.Core.csproj.AssemblyReference.cache
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Core/obj/Release/net6.0/Tanya.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Core/obj/Release/net6.0/Tanya.Core.AssemblyInfoInputs.cache
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Core/obj/Release/net6.0/Tanya.Core.AssemblyInfo.cs
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Core/obj/Release/net6.0/Tanya.Core.csproj.CoreCompileInputs.cache
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Core/obj/Release/net6.0/Tanya.Core.csproj.CopyComplete
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Core/obj/Release/net6.0/Tanya.Core.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Core/obj/Release/net6.0/ref/Tanya.Core.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Core/obj/Release/net6.0/Tanya.Core.genruntimeconfig.cache

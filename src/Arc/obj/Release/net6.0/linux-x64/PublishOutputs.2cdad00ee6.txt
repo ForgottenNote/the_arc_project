@@ -1,0 +1,2 @@
+/home/nicktacke/Desktop/the_arc_project/bin/appsettings.json
+/home/nicktacke/Desktop/the_arc_project/bin/Tanya

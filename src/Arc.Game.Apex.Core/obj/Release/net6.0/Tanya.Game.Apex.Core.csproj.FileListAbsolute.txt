@@ -1,0 +1,15 @@
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Core/bin/Release/net6.0/Tanya.Game.Apex.Core.deps.json
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Core/bin/Release/net6.0/Tanya.Game.Apex.Core.runtimeconfig.json
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Core/bin/Release/net6.0/Tanya.Game.Apex.Core.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Core/bin/Release/net6.0/ref/Tanya.Game.Apex.Core.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Core/bin/Release/net6.0/Tanya.Core.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Core/bin/Release/net6.0/Tanya.Driver.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Core/obj/Release/net6.0/Tanya.Game.Apex.Core.csproj.AssemblyReference.cache
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Core/obj/Release/net6.0/Tanya.Game.Apex.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Core/obj/Release/net6.0/Tanya.Game.Apex.Core.AssemblyInfoInputs.cache
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Core/obj/Release/net6.0/Tanya.Game.Apex.Core.AssemblyInfo.cs
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Core/obj/Release/net6.0/Tanya.Game.Apex.Core.csproj.CoreCompileInputs.cache
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Core/obj/Release/net6.0/Tanya.Game.Apex.Core.csproj.CopyComplete
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Core/obj/Release/net6.0/Tanya.Game.Apex.Core.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Core/obj/Release/net6.0/ref/Tanya.Game.Apex.Core.dll
+/home/nicktacke/Desktop/the_arc_project/src/Tanya.Game.Apex.Core/obj/Release/net6.0/Tanya.Game.Apex.Core.genruntimeconfig.cache
